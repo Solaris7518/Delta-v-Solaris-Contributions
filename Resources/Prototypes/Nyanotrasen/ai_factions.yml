@@ -7,3 +7,13 @@
   id: PsionicInterloper # Crew aligned psionic
   hostile:
   - GlimmerMonster
+
+- type: npcFaction
+  id: Pibble #Delta-V re-addition, Pitbull faction, because the couriers get to suffer. - Solaris
+  hostile:
+  - Cat
+  - Mouse
+  - Mailman
+
+- type: npcFaction 
+  id: Mailman #Delta-V re-addition, Courier faction, anyone with this will be attacked on sight by pitbulls. - Solaris

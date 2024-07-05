@@ -8,6 +8,8 @@
     sprite: Nyanotrasen/Clothing/Head/Hats/mailman.rsi
   - type: Clothing
     sprite: Nyanotrasen/Clothing/Head/Hats/mailman.rsi
+  - type: ClothingAddFaction
+    faction: Mailman
 
 - type: entity
   parent: ClothingHeadBase

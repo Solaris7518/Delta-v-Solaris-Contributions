@@ -43,6 +43,8 @@
       sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/mail_winter_coat.rsi
     - type: Clothing
       sprite: Nyanotrasen/Clothing/OuterClothing/WinterCoats/mail_winter_coat.rsi
+    - type: ClothingAddFaction
+      faction: Mailman
 
 - type: entity
   parent: ClothingOuterWinterCoat
