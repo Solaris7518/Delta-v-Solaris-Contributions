@@ -95,8 +95,8 @@
   - type: Nuke
     explosionType: Default
     maxIntensity: 100
-    intensitySlope: 5
-    totalIntensity: 5000000
+    intensitySlope: 3 #Delta-V change, makes the nuke actually destroy large stations. Just as god intended! - Solaris
+    totalIntensity: 15000000 # delta-V change, read above comment.
     diskSlot:
       name: nuke-slot-component-slot-name-disk
       insertSound:
